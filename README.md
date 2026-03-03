@@ -4,7 +4,7 @@ the time-dependent resistance to ion diffusion - a necessary transport phenomeno
 carefully timed constant current charge pulses and rests, the concentration overpotential can be isolated from the ohmic and kinetic overpotentials. 
 This allows a mathematical calculation of the diffusion coefficient following Fick's laws, given that certain physical criteria are met. The ICI 
 technique was developed by Matthew J. Lacey and can be read about thoroughly in his papers. In my experiments, ICI-calculated diffusion data has 
-proven to lie almost directly ontop of diffusion data calculated by the industry standard GITT method.
+proven to lie almost directly ontop of diffusion data calculated by the industry standard GITT method, and takes only a fraction of the time.
 
 These scripts have few inputs such as test result file names, mean active material particle radius, and protocol charge / rest step numbers. The 
 output is an easy to read plot of diffusion coefficient as a function of cell voltage accompanied by a data summary in csv form. The calculations 
