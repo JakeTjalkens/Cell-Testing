@@ -1,1 +1,0 @@
-oh shore, shore
